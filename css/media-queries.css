@@ -1,3 +1,8 @@
+@media (max-width: 1023px) {
+  .res{height: 250px;}
+  txt-up{font-size: 50px; margin-left: 20px;}
+}
+
 @media (max-width: 767px) {
   .title-yellow{font-size: 36px;}
   .title-purple{font-size: 36px;}
@@ -5,9 +10,11 @@
   .title-orange{font-size: 36px;}
   .title-blue{font-size: 36px;}
 
-
+  .res{height: 250px;}
 
 }
+
+
 
 @media (max-width: 480px) {
   .alignB{padding: 0px 18px 0px 85px;}
